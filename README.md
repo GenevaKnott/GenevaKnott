@@ -47,4 +47,6 @@
   Associate's Degree- Cyber Defense-in progress
 
 ### <h3>🎉 Fun Facts</h3>
- 
+- I have a bengal kitty name Haku
+- I love studio ghibili flims
+- I was in robotics in highschool
