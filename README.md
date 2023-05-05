@@ -1,4 +1,4 @@
-![mygreatheader](Geneva Knott.png)
+![mygreatheader](Geneva-Knott.png)
 <p align="center">
 <a href="https://www.linkedin.com/in/genevaknott/" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-linkedin-circled-64 (1).png"></a>&nbsp;&nbsp;
 </p>
