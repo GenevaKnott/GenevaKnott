@@ -22,10 +22,12 @@
 
 ### 🔥Certifcations:
 - ITF+
-- ISC2 Candidate 
+- ISC2 Candidate
+- Security ce+
+- AWS Cloud Practitioner
 #### Certifcation Goals:
 - Net+
-- Sec+
+- Cybersevurity Analyst 
 
 ### ✅ Technologies and Tools
 | Technologies  | & | Tools |
